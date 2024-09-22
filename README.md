@@ -5,7 +5,7 @@ I am a recent graduate with a profound interest in technology and a dedication t
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in technology has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
 
@@ -72,7 +72,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ### Data Handling and Processing
 <div>
     <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
-    <img src="https://img.shields.io/badge/-pandas-150458?&style=for-the-badge&logo=pandas&logoColor=white" />
     <img src="https://img.shields.io/badge/-Excel-217346?&style=for-the-badge&logo=MicrosoftExcel&logoColor=white" />
     <img src="https://img.shields.io/badge/-Google_Sheets-34A853?&style=for-the-badge&logo=Google&logoColor=white" />
     <img src="https://img.shields.io/badge/-Log_Parser-000000?&style=for-the-badge&logo=LogParser&logoColor=white" />
@@ -80,13 +79,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Google_Cybersecurity_Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
 </div>
 
 ## Projects
