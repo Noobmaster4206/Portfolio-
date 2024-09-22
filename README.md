@@ -1,17 +1,13 @@
-# Hello, I'm CHANGEME
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-[Brief Introduction - Remove this afterwards]
+# Hello, I'm Shoaib Khan
+<a href="https://in.linkedin.com/in/shoaib-khan-336b7a220"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                         | Associated Project                                                                                           |
 |-------------------------------|--------------------------------------------------------------------------------------------------------------|
@@ -24,30 +20,71 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Project Documentation               | [Drafting a Professional Statement](https://drive.google.com/file/d/15jDk4a9mhzC7984j91OzzUggxai9Eod1/view?usp=drivesdk)                          |
 | Data Handling and Processing        | [Importing and Parsing a Text File in a Security-Related Scenario](https://drive.google.com/file/d/15jRwZjBBOd6foHPT7fI8SzWdSFC1MZnm/view?usp=drivesdk) |
 
-Now the projects are linked correctly!
-
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
-### Network
+### Incident Response and Documentation
+<div>
+    <img src="https://img.shields.io/badge/-Google_Chronicle-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-TheHive-6A1B30?&style=for-the-badge&logo=TheHive&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cortex-4C7D5C?&style=for-the-badge&logo=Cortex&logoColor=white" />
+</div>
+
+### Security Audit and Risk Assessment
+<div>
+    <img src="https://img.shields.io/badge/-Nessus-7E9B3A?&style=for-the-badge&logo=Nessus&logoColor=white" />
+    <img src="https://img.shields.io/badge/-OpenVAS-1C5D5B?&style=for-the-badge&logo=OpenVAS&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-4E9ECA?&style=for-the-badge&logo=Nmap&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Metasploit-5D00A1?&style=for-the-badge&logo=Metasploit&logoColor=white" />
+</div>
+
+### Network Security Analysis
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-tcpdump-000000?&style=for-the-badge&logo=tcpdump&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cisco_Packet_Tracer-0054A2?&style=for-the-badge&logo=Cisco&logoColor=white" />
 </div>
 
-### Endpoint
+### File Permission Management (Linux)
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Linux-FF0000?&style=for-the-badge&logo=Linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=GNU&logoColor=white" />
 </div>
 
-### SIEM
+### Database Security and SQL
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-MySQL_Workbench-00758F?&style=for-the-badge&logo=MySQL&logoColor=white" />
+    <img src="https://img.shields.io/badge/-pgAdmin-3A8E3C?&style=for-the-badge&logo=PostgreSQL&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SQLMap-000000?&style=for-the-badge&logo=SQLMap&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SQLite-003B57?&style=for-the-badge&logo=SQLite&logoColor=white" />
 </div>
+
+### Vulnerability Assessment
+<div>
+    <img src="https://img.shields.io/badge/-Burp_Suite-6B36A8?&style=for-the-badge&logo=BurpSuite&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nikto-00A2E2?&style=for-the-badge&logo=Nikto&logoColor=white" />
+    <img src="https://img.shields.io/badge/-OWASP_ZAP-30BFBF?&style=for-the-badge&logo=OWASP&logoColor=white" />
+</div>
+
+### Project Documentation
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Word-2B579A?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Google_Docs-DB4437?&style=for-the-badge&logo=Google&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LaTeX-008080?&style=for-the-badge&logo=LaTeX&logoColor=white" />
+</div>
+
+### Data Handling and Processing
+<div>
+    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-pandas-150458?&style=for-the-badge&logo=pandas&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Excel-217346?&style=for-the-badge&logo=MicrosoftExcel&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Google_Sheets-34A853?&style=for-the-badge&logo=Google&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Log_Parser-000000?&style=for-the-badge&logo=LogParser&logoColor=white" />
+</div>
+
 
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
