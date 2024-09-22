@@ -26,13 +26,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <div>
     <img src="https://img.shields.io/badge/-Google_Chronicle-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-TheHive-6A1B30?&style=for-the-badge&logo=TheHive&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Cortex-4C7D5C?&style=for-the-badge&logo=Cortex&logoColor=white" />
 </div>
 
 ### Security Audit and Risk Assessment
 <div>
-    <img src="https://img.shields.io/badge/-Nessus-7E9B3A?&style=for-the-badge&logo=Nessus&logoColor=white" />
     <img src="https://img.shields.io/badge/-OpenVAS-1C5D5B?&style=for-the-badge&logo=OpenVAS&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nmap-4E9ECA?&style=for-the-badge&logo=Nmap&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
@@ -43,7 +40,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
     <img src="https://img.shields.io/badge/-tcpdump-000000?&style=for-the-badge&logo=tcpdump&logoColor=white" />
     <img src="https://img.shields.io/badge/-Cisco_Packet_Tracer-0054A2?&style=for-the-badge&logo=Cisco&logoColor=white" />
 </div>
@@ -65,7 +61,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ### Vulnerability Assessment
 <div>
     <img src="https://img.shields.io/badge/-Burp_Suite-6B36A8?&style=for-the-badge&logo=BurpSuite&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nikto-00A2E2?&style=for-the-badge&logo=Nikto&logoColor=white" />
     <img src="https://img.shields.io/badge/-OWASP_ZAP-30BFBF?&style=for-the-badge&logo=OWASP&logoColor=white" />
 </div>
 
@@ -73,9 +68,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Word-2B579A?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Google_Docs-DB4437?&style=for-the-badge&logo=Google&logoColor=white" />
-    <img src="https://img.shields.io/badge/-LaTeX-008080?&style=for-the-badge&logo=LaTeX&logoColor=white" />
-</div>
-
+    
 ### Data Handling and Processing
 <div>
     <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
